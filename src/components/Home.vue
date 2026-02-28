@@ -49,7 +49,7 @@ const projects = [
             class="relative inline-flex rounded-full h-1.5 w-1.5 bg-zinc-300"
           ></span>
         </span>
-        Mahasiswa Informatika & Software Engineer
+         Software Engineer
       </div>
 
       <h1
