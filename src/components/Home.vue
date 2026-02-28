@@ -9,7 +9,7 @@ import {
   CardContent,
 } from "@/components/ui/card";
 import { assignments } from "../data/assignments";
-import { ArrowRight, Users, Bot, AppWindow, FileText } from "lucide-vue-next";
+import { ArrowRight, Users, Bot, FileText } from "lucide-vue-next";
 
 const projects = [
   {
