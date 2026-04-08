@@ -14,5 +14,13 @@ export const assignments = [
     date: '12 Maret 2026',
     summary: 'Tugas presentasi multimedia sesi pengolahan teks dan grafis. Membahas latar belakang, visi, dan cara kerja komunitas IT "Daging Di Hari Sabtu" (DDS) dengan menerapkan minimal dua format teks dan gambar serta teknik editing visual.',
     pdfUrl: '/files/Presentasi_Daging_di_hari_sabtu.pptx'
+  },
+  {
+    id: 3,
+    title: 'Analisis dan Solusi Pengolahan Audio: Proyek Video Demo Aplikasi',
+    subject: 'Multimedia',
+    date: '08 April 2026',
+    summary: 'Laporan mendalam mengenai analisis masalah noise latar belakang dan sinkronisasi audio-video pada proyek multimedia, dilengkapi solusi teknis menggunakan tools Audacity dan metode bitrate management[cite: 57, 61, 64, 83].',
+    pdfUrl: '/files/Laporan_Analisis_Solusi_Pengolahan_Audio.pdf'
   }
 ];
