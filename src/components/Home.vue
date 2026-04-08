@@ -36,7 +36,7 @@ const projects = [
 <template>
   <div class="container mx-auto px-6 max-w-5xl">
     <section
-      class="py-40 md:py-56 flex flex-col items-center text-center animate-in fade-in slide-in-from-bottom-8 duration-[1500ms] ease-out"
+      class="py-30 md:py-36 flex flex-col items-center text-center animate-in fade-in slide-in-from-bottom-8 duration-[1500ms] ease-out"
     >
       <div
         class="inline-flex items-center gap-3 mb-10 px-6 py-2.5 rounded-full border border-white/[0.05] bg-white/[0.02] backdrop-blur-2xl text-[0.7rem] font-medium text-zinc-400 tracking-[0.2em] uppercase shadow-2xl"
